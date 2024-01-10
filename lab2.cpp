@@ -17,7 +17,7 @@ void Iron::displayInfo()
 int main() 
 {
     SetConsoleCP(1251);
-    SetConsoleOutputCP(1251);
+    SetConsoleOutputCP(1251
     Iron myIron;
     cout << "¬вед≥ть бренд праски: ";
     getline(cin, myIron.brand);
