@@ -1,6 +1,6 @@
 #include <iostream>
 #include <Windows.h>
-#include "lab4.h"
+#include "lab3.h"
 using namespace std;
 
 void Boiler::displayInfo() 

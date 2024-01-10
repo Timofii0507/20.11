@@ -4,10 +4,11 @@
     <ClCompile Include="lab.cpp" />
     <ClCompile Include="lab2.cpp" />
     <ClCompile Include="lab3.cpp" />
+    <ClCompile Include="animal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lab.h" />
     <ClInclude Include="lab2.h" />
-    <ClInclude Include="lab4.h" />
+    <ClInclude Include="lab3.h" />
   </ItemGroup>
 </Project>
